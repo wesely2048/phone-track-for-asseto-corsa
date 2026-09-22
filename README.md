@@ -374,6 +374,13 @@ The positional values `X`, `Y`, and `Z` are always sent as zero.
 This project is distributed under the MIT License. See the [LICENSE](LICENSE)
 file for details.
 
+## Disclaimer
+
+This is an independent, unofficial project. It is not affiliated with or
+endorsed by OpenTrack, ZIG SIM, Apple, Kunos Simulazioni, or the developers
+of Assetto Corsa. All product names and trademarks belong to their respective
+owners.
+
 ---
 
 <a id="русский"></a>
@@ -745,3 +752,9 @@ ZIG SIM отправляет quaternion ориентации iPhone в JSON-па
 
 Проект распространяется по лицензии MIT. Подробности приведены в файле
 [LICENSE](LICENSE).
+
+## Отказ от ответственности
+
+Это независимый неофициальный проект. Он не связан с OpenTrack, ZIG SIM,
+Apple, Kunos Simulazioni или разработчиками Assetto Corsa и не поддерживается
+ими. Все названия продуктов и товарные знаки принадлежат их владельцам.
