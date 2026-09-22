@@ -369,7 +369,10 @@ ZIG SIM sends the iPhone's orientation quaternion in a JSON packet. The bridge:
 
 The positional values `X`, `Y`, and `Z` are always sent as zero.
 
+## License
 
+This project is distributed under the MIT License. See the [LICENSE](LICENSE)
+file for details.
 
 ---
 
@@ -736,5 +739,9 @@ ZIG SIM отправляет quaternion ориентации iPhone в JSON-па
 
 Позиционные значения `X`, `Y` и `Z` передаются равными нулю.
 
-## Проверка проекта
 
+
+## Лицензия
+
+Проект распространяется по лицензии MIT. Подробности приведены в файле
+[LICENSE](LICENSE).
